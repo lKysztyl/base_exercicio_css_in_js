@@ -1,5 +1,5 @@
 const themaColors = {
-  primary: '#a77727d',
+  primary: '#a7727d',
   secondary: '#f9f5e7'
 }
 
